@@ -1,0 +1,20 @@
+{
+  "name": "rs-clone-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "server": "json-server -w db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tati-Zhurr/rs-clone-api.git"
+  },
+  "author": "tati_zhurr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tati-Zhurr/rs-clone-api/issues"
+  },
+  "homepage": "https://github.com/Tati-Zhurr/rs-clone-api#readme"
+}
